@@ -1,3 +1,3 @@
 def say_hello(name = "Ruby Programmer")
-  puts say_hello
+ var = H
 end
