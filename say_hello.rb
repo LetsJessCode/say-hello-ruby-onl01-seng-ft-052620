@@ -1,3 +1,4 @@
 def say_hello(name = "Ruby Programmer")
- var = "Hello" + 
+ var = "Hello" + name
+ return var
 end
